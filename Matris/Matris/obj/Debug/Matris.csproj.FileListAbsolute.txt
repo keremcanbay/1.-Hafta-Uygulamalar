@@ -1,0 +1,7 @@
+C:\Users\yigit\source\repos\Matris\Matris\bin\Debug\Matris.exe.config
+C:\Users\yigit\source\repos\Matris\Matris\bin\Debug\Matris.exe
+C:\Users\yigit\source\repos\Matris\Matris\bin\Debug\Matris.pdb
+C:\Users\yigit\source\repos\Matris\Matris\obj\Debug\Matris.csprojAssemblyReference.cache
+C:\Users\yigit\source\repos\Matris\Matris\obj\Debug\Matris.csproj.CoreCompileInputs.cache
+C:\Users\yigit\source\repos\Matris\Matris\obj\Debug\Matris.exe
+C:\Users\yigit\source\repos\Matris\Matris\obj\Debug\Matris.pdb

@@ -1,0 +1,7 @@
+C:\Users\yigit\source\repos\Düğüm\Düğüm\obj\Debug\Düğüm.csprojAssemblyReference.cache
+C:\Users\yigit\source\repos\Düğüm\Düğüm\obj\Debug\Düğüm.csproj.CoreCompileInputs.cache
+C:\Users\yigit\source\repos\Düğüm\Düğüm\bin\Debug\Düğüm.exe.config
+C:\Users\yigit\source\repos\Düğüm\Düğüm\bin\Debug\Düğüm.exe
+C:\Users\yigit\source\repos\Düğüm\Düğüm\bin\Debug\Düğüm.pdb
+C:\Users\yigit\source\repos\Düğüm\Düğüm\obj\Debug\Düğüm.exe
+C:\Users\yigit\source\repos\Düğüm\Düğüm\obj\Debug\Düğüm.pdb

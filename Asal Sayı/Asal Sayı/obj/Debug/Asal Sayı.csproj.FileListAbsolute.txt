@@ -1,0 +1,7 @@
+C:\Users\yigit\source\repos\Asal Sayı\Asal Sayı\bin\Debug\Asal Sayı.exe.config
+C:\Users\yigit\source\repos\Asal Sayı\Asal Sayı\bin\Debug\Asal Sayı.exe
+C:\Users\yigit\source\repos\Asal Sayı\Asal Sayı\bin\Debug\Asal Sayı.pdb
+C:\Users\yigit\source\repos\Asal Sayı\Asal Sayı\obj\Debug\Asal Sayı.csprojAssemblyReference.cache
+C:\Users\yigit\source\repos\Asal Sayı\Asal Sayı\obj\Debug\Asal Sayı.csproj.CoreCompileInputs.cache
+C:\Users\yigit\source\repos\Asal Sayı\Asal Sayı\obj\Debug\Asal Sayı.exe
+C:\Users\yigit\source\repos\Asal Sayı\Asal Sayı\obj\Debug\Asal Sayı.pdb
